@@ -32,8 +32,8 @@
         "enabled": true,
         "path": ""
       },
-      "username": "",
-      "access_key": "",
+      "username": "vishnukdas",
+      "access_key": "40fkQ3JuRlYMzd4ff7uqkqXCTnwvvkEB7FWJz1sLS2qSqoEDal",
       "skip_testcases_on_fail": false,
       "desiredCapabilities": {
         "build": "Nightwatch-Selenium-Sample",
